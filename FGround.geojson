@@ -1780,7 +1780,7 @@
             "properties": {
                 "id": 178,
                 "name": "lift",
-                "colour": "turqoise",
+                "colour": "turquoise",
                 "floor": 0
             },
             "geometry": {
@@ -2358,7 +2358,7 @@
             "properties": {
                 "id": 187,
                 "name": "pedestrian",
-                "colour": "thirstle",
+                "colour": "thistle",
                 "floor": 0
             },
             "geometry": {
@@ -2536,7 +2536,7 @@
             "properties": {
                 "id": 190,
                 "name": "pedestrian",
-                "colour": "thirstle",
+                "colour": "thistle",
                 "floor": 0
             },
             "geometry": {
@@ -3030,7 +3030,7 @@
             "properties": {
                 "id": 195,
                 "name": "lift",
-                "colour": "turqoise",
+                "colour": "turquoise",
                 "floor": 0
             },
             "geometry": {
@@ -3068,7 +3068,7 @@
             "properties": {
                 "id": 196,
                 "name": "lift",
-                "colour": "turqoise",
+                "colour": "turquoise",
                 "floor": 0
             },
             "geometry": {
@@ -3222,7 +3222,7 @@
             "properties": {
                 "id": 199,
                 "name": "pedestrian",
-                "colour": "thirstle",
+                "colour": "thistle",
                 "floor": 0
             },
             "geometry": {
