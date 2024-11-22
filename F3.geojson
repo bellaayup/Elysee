@@ -2321,8 +2321,8 @@
             "type": "Feature",
             "properties": {
                 "id": 181,
-                "name": "tenant",
-                "colour": "skyblue",
+                "name": "servicearea",
+                "colour": "pink",
                 "floor": 3
             },
             "geometry": {
