@@ -2983,7 +2983,7 @@
             "type": "Feature",
             "properties": {
                 "id": 194,
-                "name": "elevator",
+                "name": "escalator",
                 "colour": "cornsilk",
                 "floor": 0
             },
@@ -6623,7 +6623,7 @@
             "type": "Feature",
             "properties": {
                 "id": 232,
-                "name": "elevator",
+                "name": "escalator",
                 "colour": "cornsilk",
                 "floor": 0
             },
