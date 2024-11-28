@@ -2313,45 +2313,6 @@
             "type": "Feature",
             "properties": {
                 "id": 181,
-                "name": "wall",
-                "colour": "silver",
-                "floor": 5
-            },
-            "geometry": {
-                "type": "MultiPolygon",
-                "coordinates": []
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "id": 182,
-                "name": "stairs",
-                "colour": "linen",
-                "floor": 5
-            },
-            "geometry": {
-                "type": "MultiPolygon",
-                "coordinates": []
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "id": 183,
-                "name": "servicearea",
-                "colour": "pink",
-                "floor": 5
-            },
-            "geometry": {
-                "type": "MultiPolygon",
-                "coordinates": []
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "id": 184,
                 "name": "servicearea",
                 "colour": "pink",
                 "floor": 5
@@ -2445,7 +2406,7 @@
         {
             "type": "Feature",
             "properties": {
-                "id": 185,
+                "id": 182,
                 "name": "wall",
                 "colour": "silver",
                 "floor": 5
@@ -2607,7 +2568,7 @@
         {
             "type": "Feature",
             "properties": {
-                "id": 186,
+                "id": 183,
                 "name": "wall",
                 "colour": "silver",
                 "floor": 5
@@ -2653,7 +2614,7 @@
         {
             "type": "Feature",
             "properties": {
-                "id": 187,
+                "id": 184,
                 "name": "wall",
                 "colour": "silver",
                 "floor": 5
@@ -2855,20 +2816,7 @@
         {
             "type": "Feature",
             "properties": {
-                "id": 188,
-                "name": "wall",
-                "colour": "silver",
-                "floor": 5
-            },
-            "geometry": {
-                "type": "MultiPolygon",
-                "coordinates": []
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "id": 189,
+                "id": 185,
                 "name": "servicearea",
                 "colour": "pink",
                 "floor": 5
@@ -2902,7 +2850,7 @@
         {
             "type": "Feature",
             "properties": {
-                "id": 190,
+                "id": 186,
                 "name": "publicarea",
                 "colour": "coral",
                 "floor": 5
@@ -2960,7 +2908,7 @@
         {
             "type": "Feature",
             "properties": {
-                "id": 191,
+                "id": 187,
                 "name": "lift",
                 "colour": "aquamarine",
                 "floor": 5
@@ -2998,7 +2946,7 @@
         {
             "type": "Feature",
             "properties": {
-                "id": 192,
+                "id": 188,
                 "name": "lift",
                 "colour": "aquamarine",
                 "floor": 5
@@ -3036,7 +2984,7 @@
         {
             "type": "Feature",
             "properties": {
-                "id": 193,
+                "id": 189,
                 "name": "wall",
                 "colour": "silver",
                 "floor": 5
@@ -3202,7 +3150,7 @@
         {
             "type": "Feature",
             "properties": {
-                "id": 194,
+                "id": 190,
                 "name": "wall",
                 "colour": "silver",
                 "floor": 5
@@ -3412,7 +3360,7 @@
         {
             "type": "Feature",
             "properties": {
-                "id": 195,
+                "id": 191,
                 "name": "wall",
                 "colour": "silver",
                 "floor": 5
@@ -3742,7 +3690,7 @@
         {
             "type": "Feature",
             "properties": {
-                "id": 196,
+                "id": 192,
                 "name": "tenant",
                 "colour": "skyblue",
                 "floor": 5
@@ -5644,7 +5592,7 @@
         {
             "type": "Feature",
             "properties": {
-                "id": 197,
+                "id": 193,
                 "name": "wall",
                 "colour": "silver",
                 "floor": 5
@@ -5838,7 +5786,7 @@
         {
             "type": "Feature",
             "properties": {
-                "id": 198,
+                "id": 194,
                 "name": "tenant",
                 "colour": "skyblue",
                 "floor": 5
@@ -5940,7 +5888,7 @@
         {
             "type": "Feature",
             "properties": {
-                "id": 199,
+                "id": 195,
                 "name": "escalator",
                 "colour": "cornsilk",
                 "floor": 5
@@ -5978,7 +5926,7 @@
         {
             "type": "Feature",
             "properties": {
-                "id": 200,
+                "id": 196,
                 "name": "wall",
                 "colour": "silver",
                 "floor": 5
@@ -6036,7 +5984,7 @@
         {
             "type": "Feature",
             "properties": {
-                "id": 201,
+                "id": 197,
                 "name": "wall",
                 "colour": "silver",
                 "floor": 5
@@ -6098,7 +6046,7 @@
         {
             "type": "Feature",
             "properties": {
-                "id": 202,
+                "id": 198,
                 "name": "wall",
                 "colour": "silver",
                 "floor": 5
@@ -6160,7 +6108,7 @@
         {
             "type": "Feature",
             "properties": {
-                "id": 203,
+                "id": 199,
                 "name": "wall",
                 "colour": "silver",
                 "floor": 5
@@ -6222,7 +6170,7 @@
         {
             "type": "Feature",
             "properties": {
-                "id": 204,
+                "id": 200,
                 "name": "wall",
                 "colour": "silver",
                 "floor": 5
@@ -6288,7 +6236,7 @@
         {
             "type": "Feature",
             "properties": {
-                "id": 205,
+                "id": 201,
                 "name": "wall",
                 "colour": "silver",
                 "floor": 5
@@ -6358,7 +6306,7 @@
         {
             "type": "Feature",
             "properties": {
-                "id": 206,
+                "id": 202,
                 "name": "wall",
                 "colour": "silver",
                 "floor": 5
@@ -6424,7 +6372,7 @@
         {
             "type": "Feature",
             "properties": {
-                "id": 207,
+                "id": 203,
                 "name": "wall",
                 "colour": "silver",
                 "floor": 5
@@ -6490,7 +6438,7 @@
         {
             "type": "Feature",
             "properties": {
-                "id": 208,
+                "id": 204,
                 "name": "wall",
                 "colour": "silver",
                 "floor": 5
@@ -6556,7 +6504,7 @@
         {
             "type": "Feature",
             "properties": {
-                "id": 209,
+                "id": 205,
                 "name": "wall",
                 "colour": "silver",
                 "floor": 5
@@ -6622,7 +6570,7 @@
         {
             "type": "Feature",
             "properties": {
-                "id": 210,
+                "id": 206,
                 "name": "wall",
                 "colour": "silver",
                 "floor": 5
@@ -6684,7 +6632,7 @@
         {
             "type": "Feature",
             "properties": {
-                "id": 211,
+                "id": 207,
                 "name": "wall",
                 "colour": "silver",
                 "floor": 5
@@ -6746,7 +6694,7 @@
         {
             "type": "Feature",
             "properties": {
-                "id": 212,
+                "id": 208,
                 "name": "wall",
                 "colour": "silver",
                 "floor": 5
@@ -6808,7 +6756,7 @@
         {
             "type": "Feature",
             "properties": {
-                "id": 213,
+                "id": 209,
                 "name": "wall",
                 "colour": "silver",
                 "floor": 5
@@ -6874,7 +6822,7 @@
         {
             "type": "Feature",
             "properties": {
-                "id": 214,
+                "id": 210,
                 "name": "wall",
                 "colour": "silver",
                 "floor": 5
@@ -6940,7 +6888,7 @@
         {
             "type": "Feature",
             "properties": {
-                "id": 215,
+                "id": 211,
                 "name": "wall",
                 "colour": "silver",
                 "floor": 5
@@ -7006,7 +6954,7 @@
         {
             "type": "Feature",
             "properties": {
-                "id": 216,
+                "id": 212,
                 "name": "wall",
                 "colour": "silver",
                 "floor": 5
@@ -7072,7 +7020,7 @@
         {
             "type": "Feature",
             "properties": {
-                "id": 217,
+                "id": 213,
                 "name": "wall",
                 "colour": "silver",
                 "floor": 5
@@ -7138,7 +7086,7 @@
         {
             "type": "Feature",
             "properties": {
-                "id": 218,
+                "id": 214,
                 "name": "wall",
                 "colour": "silver",
                 "floor": 5
@@ -7204,7 +7152,7 @@
         {
             "type": "Feature",
             "properties": {
-                "id": 219,
+                "id": 215,
                 "name": "wall",
                 "colour": "silver",
                 "floor": 5
@@ -7270,7 +7218,7 @@
         {
             "type": "Feature",
             "properties": {
-                "id": 220,
+                "id": 216,
                 "name": "wall",
                 "colour": "silver",
                 "floor": 5
@@ -7340,7 +7288,7 @@
         {
             "type": "Feature",
             "properties": {
-                "id": 221,
+                "id": 217,
                 "name": "wall",
                 "colour": "silver",
                 "floor": 5
@@ -7406,7 +7354,7 @@
         {
             "type": "Feature",
             "properties": {
-                "id": 222,
+                "id": 218,
                 "name": "wall",
                 "colour": "silver",
                 "floor": 5
@@ -7472,7 +7420,7 @@
         {
             "type": "Feature",
             "properties": {
-                "id": 223,
+                "id": 219,
                 "name": "wall",
                 "colour": "silver",
                 "floor": 5
@@ -7542,7 +7490,7 @@
         {
             "type": "Feature",
             "properties": {
-                "id": 224,
+                "id": 220,
                 "name": "wall",
                 "colour": "silver",
                 "floor": 5
@@ -7612,7 +7560,7 @@
         {
             "type": "Feature",
             "properties": {
-                "id": 225,
+                "id": 221,
                 "name": "wall",
                 "colour": "silver",
                 "floor": 5
@@ -7678,7 +7626,7 @@
         {
             "type": "Feature",
             "properties": {
-                "id": 226,
+                "id": 222,
                 "name": "wall",
                 "colour": "silver",
                 "floor": 5
@@ -7764,7 +7712,7 @@
         {
             "type": "Feature",
             "properties": {
-                "id": 227,
+                "id": 223,
                 "name": "servicearea",
                 "colour": "pink",
                 "floor": 5
@@ -7822,7 +7770,7 @@
         {
             "type": "Feature",
             "properties": {
-                "id": 228,
+                "id": 224,
                 "name": "wall",
                 "colour": "silver",
                 "floor": 5
@@ -7876,7 +7824,7 @@
         {
             "type": "Feature",
             "properties": {
-                "id": 229,
+                "id": 225,
                 "name": "wall",
                 "colour": "silver",
                 "floor": 5
