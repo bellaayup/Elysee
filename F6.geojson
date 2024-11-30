@@ -2271,7 +2271,7 @@
             "type": "Feature",
             "properties": {
                 "id": 185,
-                "name": "publicarea",
+                "name": "publicarea-text",
                 "colour": "coral",
                 "floor": 6
             },
@@ -4563,7 +4563,7 @@
             "type": "Feature",
             "properties": {
                 "id": 197,
-                "name": "publicarea",
+                "name": "publicarea-text",
                 "colour": "coral",
                 "floor": 6
             },
@@ -5621,7 +5621,7 @@
             "type": "Feature",
             "properties": {
                 "id": 203,
-                "name": "esll",
+                "name": "wall",
                 "colour": "silver",
                 "floor": 6
             },
