@@ -1467,7 +1467,7 @@
             "type": "Feature",
             "properties": {
                 "id": 176,
-                "name": "stairs",
+                "name": "stairs-text",
                 "colour": "linen",
                 "floor": 1
             },
@@ -1879,7 +1879,7 @@
             "type": "Feature",
             "properties": {
                 "id": 180,
-                "name": "publicarea",
+                "name": "publicarea-text",
                 "colour": "coral",
                 "floor": 1
             },
@@ -2897,7 +2897,7 @@
             "type": "Feature",
             "properties": {
                 "id": 181,
-                "name": "stairs",
+                "name": "stairs-text",
                 "colour": "linen",
                 "floor": 1
             },
@@ -6069,7 +6069,7 @@
             "type": "Feature",
             "properties": {
                 "id": 205,
-                "name": "stairs",
+                "name": "stairs-text",
                 "colour": "linen",
                 "floor": 1
             },
@@ -7547,7 +7547,7 @@
             "type": "Feature",
             "properties": {
                 "id": 222,
-                "name": "stairs",
+                "name": "stairs-text",
                 "colour": "linen",
                 "floor": 1
             },
@@ -7775,7 +7775,7 @@
             "type": "Feature",
             "properties": {
                 "id": 225,
-                "name": "stairs",
+                "name": "stairs-text",
                 "colour": "linen",
                 "floor": 1
             },
