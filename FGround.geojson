@@ -1817,7 +1817,7 @@
             "type": "Feature",
             "properties": {
                 "id": 179,
-                "name": "publicarea",
+                "name": "publicarea-text",
                 "colour": "coral",
                 "floor": 0
             },
@@ -1871,7 +1871,7 @@
             "type": "Feature",
             "properties": {
                 "id": 180,
-                "name": "stairs",
+                "name": "stairs-text",
                 "colour": "linen",
                 "floor": 0
             },
@@ -2205,7 +2205,7 @@
             "type": "Feature",
             "properties": {
                 "id": 185,
-                "name": "stairs",
+                "name": "stairs-text",
                 "colour": "linen",
                 "floor": 0
             },
@@ -2357,7 +2357,7 @@
             "type": "Feature",
             "properties": {
                 "id": 187,
-                "name": "pedestrian",
+                "name": "pedestrian-text",
                 "colour": "plum",
                 "floor": 0
             },
@@ -2535,7 +2535,7 @@
             "type": "Feature",
             "properties": {
                 "id": 190,
-                "name": "pedestrian",
+                "name": "pedestrian-text",
                 "colour": "plum",
                 "floor": 0
             },
@@ -3105,7 +3105,7 @@
             "type": "Feature",
             "properties": {
                 "id": 197,
-                "name": "publicarea",
+                "name": "publicarea-text",
                 "colour": "coral",
                 "floor": 0
             },
@@ -3221,7 +3221,7 @@
             "type": "Feature",
             "properties": {
                 "id": 199,
-                "name": "pedestrian",
+                "name": "pedestrian-text",
                 "colour": "plum",
                 "floor": 0
             },
@@ -3533,7 +3533,7 @@
             "type": "Feature",
             "properties": {
                 "id": 201,
-                "name": "publicarea",
+                "name": "publicarea-text",
                 "colour": "coral",
                 "floor": 0
             },
@@ -4651,7 +4651,7 @@
             "type": "Feature",
             "properties": {
                 "id": 212,
-                "name": "stairs",
+                "name": "stairs-text",
                 "colour": "linen",
                 "floor": 0
             },
@@ -6223,7 +6223,7 @@
             "type": "Feature",
             "properties": {
                 "id": 226,
-                "name": "stairs",
+                "name": "stairs-text",
                 "colour": "linen",
                 "floor": 0
             },
